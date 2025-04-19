@@ -1,0 +1,11 @@
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/Sanket/IdeaProjects/API_Automation_Framework/src/test/java/com/MyApiAproject/tests/cruds/Test_Create_Booking.java">
+        <classes>
+            <class name="com.MyApiAproject.tests.cruds.Test_Create_Booking">
+                <methods>
+                    <include name="verify_CreateBooking_Post"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
